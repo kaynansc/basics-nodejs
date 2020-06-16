@@ -32,6 +32,6 @@ Os testes foram realizados pela equipe rocketseat!
 <li>Parâmetros de API;
 
 # ✔️ Verifique a solução
-$ git clone https://github.com/victorfclima/basics-nodejs.git <br>
+$ git clone https://github.com/kaynansc/basics-nodejs.git <br>
 $ yarn install <br>
 $ yarn test
