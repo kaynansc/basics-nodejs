@@ -20,7 +20,7 @@ Esses desafios consistem em criar uma API básica com NodeJs, capaz de passar na
 # 🧰 O que foi utilizado?
 <li>Javascript;
 <li>NodeJS;
-<li>Expresses;
+<li>Express;
 
 Os testes foram realizados pela equipe rocketseat!
 
