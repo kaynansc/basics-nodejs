@@ -1,7 +1,7 @@
 # basics-nodejs
 Challenge #2 - Basics NodeJS - Rocketseat Bootcamp GoStack
 
-# 📂 Desafio # 1 - Noções básicas do NodeJS - BootStamp do Rocketseat GoStack
+# 📂 Desafio # 2 - Noções básicas do NodeJS - BootStamp do Rocketseat GoStack
 O objetivo deste projeto é concluir o desafio nº 1 do Bootcamp do Rocketseat GoStack 12! https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs
 
 # 💻 O que deveria fazer?
